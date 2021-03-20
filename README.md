@@ -1,3 +1,3 @@
 # LeetCode
-Test Programs from Leet code.
+Practice Programs from Leet code.
 
